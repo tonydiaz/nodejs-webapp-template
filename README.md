@@ -1,4 +1,4 @@
-
+# nodejs-yo-template [![Build Status](https://travis-ci.org/tonydiaz/nodejs-webapp-template.svg)](https://travis-ci.org/tonydiaz/nodejs-webapp-template)
 # Node.js web app template:
 This Node web app was created to provide a template for future web applications as a starting point. I intend to build it out in to a MEAN stack but able to bring in other technologies as needed.
 
